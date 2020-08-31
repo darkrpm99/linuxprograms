@@ -33,3 +33,16 @@ sudo dpkg -i skypeforlinux-64.deb
 sudo add-apt-repository ppa:mozillateam/ppa
 sudo apt update
 sudo apt install thunderbird
+
+#Python 3
+sudo add-apt-repository ppa:fkrull/deadsnakes
+sudo apt update 
+sudo apt install python3.6
+
+#filezilla
+
+sudo apt install filezilla
+
+#Vlc player
+
+sudo apt install vlc
