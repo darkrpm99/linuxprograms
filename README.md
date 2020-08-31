@@ -1,2 +1,2 @@
 # linuxprograms
-repositorio de programas para linux 
+Mi repositorio de programas para linux 
